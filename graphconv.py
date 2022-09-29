@@ -1,5 +1,4 @@
 from math import sin, cos, radians
-import numpy as np
 
 def rotate(angle, rotationPoint, polygonPoints):
 
